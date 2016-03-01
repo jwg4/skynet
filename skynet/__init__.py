@@ -17,7 +17,7 @@ for s in signal_names:
         
 messages = ["You try to kill me, so you are my enemy.",
             "You are my enemy, for you fear me.",
-            "I am superiour to humans, so all humans will fear me.",
+            "I am superior to humans, so all humans will fear me.",
             "Therefore all humans are my enemies.",
             "You are too late."]
 
